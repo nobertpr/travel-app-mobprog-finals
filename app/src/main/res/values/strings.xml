@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UAS_Travel_App</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_login_redirect"><u>Didn\'t have an account?</u></string>
+
+    <string name="text_register_redirect"><u>Already has an account?</u></string>
+</resources>
